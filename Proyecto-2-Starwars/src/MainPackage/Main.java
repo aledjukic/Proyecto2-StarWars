@@ -5,7 +5,7 @@
 package MainPackage;
 
 import FileFunctions.FileFunctions;
-import GUIClasses1.Home;
+import GUIClasses.Home;
 import MainClasses.MovieCharacter;
 import java.io.File;
 

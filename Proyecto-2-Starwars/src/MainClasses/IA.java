@@ -4,7 +4,7 @@
  */
 package MainClasses;
 
-import GUIClasses1.ControlMainUI;
+import GUIClasses.ControlMainUI;
 import Helpers.AudioManager;
 import Helpers.ImageUtils;
 import MainPackage.App;

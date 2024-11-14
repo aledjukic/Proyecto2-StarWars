@@ -6,7 +6,7 @@ package MainClasses;
 
 import EDD.LinkedList;
 import EDD.Queue;
-import GUIClasses1.ControlMainUI;
+import GUIClasses.ControlMainUI;
 import MainPackage.App;
 import java.util.concurrent.Semaphore;
 import java.util.logging.Level;
