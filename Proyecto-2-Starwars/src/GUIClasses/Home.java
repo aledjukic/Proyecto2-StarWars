@@ -12,7 +12,7 @@ import javax.swing.JSlider;
 
 /**
  *
- * @author author
+ * @author Mauricio Duran & Alejandro Djukic
  */
 public class Home extends javax.swing.JFrame {
     

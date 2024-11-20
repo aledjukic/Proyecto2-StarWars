@@ -62,12 +62,12 @@ public class IA extends Thread {
                     ControlMainUI.getHome().getIaStatusLabel().setText("¡Hay un ganador!");
                     MovieCharacter winner = getWinnerCharacter(this.startrekFighter, this.starwarsFighter);
                     ControlMainUI.getHome().getWinnerLabelID().setText(winner.getCharacterId());
-                    audioManager.playSoundEffect("/GUI/Assets/victory.wav", 2.0f);
+                    audioManager.playSoundEffect("/GUI/Assests/victory.wav", 2.0f);
                     Thread.sleep((long) ((getTime() * 1000 * 0.3) * 0.6));
 
                 } else if (aux > 0.40 && aux <= 0.67) {
                     ControlMainUI.getHome().getIaStatusLabel().setText("¡El combate termina en empate!");
-                    audioManager.playSoundEffect("/GUI/Assets/tie.wav", 2.0f);
+                    audioManager.playSoundEffect("/GUI/Assests/tie.wav", 2.0f);
                     Thread.sleep((long) ((getTime() * 1000 * 0.3) * 0.6));
                     
 
@@ -75,7 +75,7 @@ public class IA extends Thread {
                     this.getAdministrator().getStarWars().getQueue1().enqueue(this.starwarsFighter);
                 } else {
                     ControlMainUI.getHome().getIaStatusLabel().setText("El combate no se llevará a cabo.");
-                    audioManager.playSoundEffect("/GUI/Assets/fail.wav", 2.0f);
+                    audioManager.playSoundEffect("/GUI/Assests/fail.wav", 2.0f);
                     Thread.sleep((long) ((getTime() * 1000 * 0.3) * 0.6));
 
                     this.getAdministrator().getStartrek().getQueue4().enqueue(this.startrekFighter);

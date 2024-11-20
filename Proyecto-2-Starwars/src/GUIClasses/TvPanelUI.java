@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author angel
+ * @author Mauricio Duran & Alejandro Djukic
  */
 public class TvPanelUI extends javax.swing.JPanel {
 

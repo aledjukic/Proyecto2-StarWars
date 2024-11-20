@@ -8,7 +8,7 @@ import EDD.Queue;
 
 /**
  *
- * @author angel
+ * @author Mauricio Duran & Alejandro Djukic
  */
 public class ControlMainUI {
 

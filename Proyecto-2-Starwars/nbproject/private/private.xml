@@ -3,13 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/FighterUI.java</file>
             <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/QueueUI.java</file>
-            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainClasses/IA.java</file>
-            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/TvPanelUI.java</file>
-            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/Home.java</file>
-            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainClasses/Administrator.java</file>
-            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainPackage/Main.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/Helpers/AudioManager.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainClasses/MovieCharacter.java</file>
             <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/ControlMainUI.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainClasses/Movie.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/Helpers/HelpersFunctions.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/FileFunctions/FileFunctions.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/TvPanelUI.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainClasses/IA.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/GUIClasses/Home.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/Helpers/ImageUtils.java</file>
+            <file>file:/C:/Users/aleja/Documents/Trimestre%202425-1/Sistemas%20Operativos/Proyecto-2-Starwars/Proyecto-2-SO-starwars/Proyecto-2-Starwars/src/MainClasses/Administrator.java</file>
         </group>
     </open-files>
 </project-private>

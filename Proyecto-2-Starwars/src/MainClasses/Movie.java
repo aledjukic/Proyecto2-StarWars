@@ -11,7 +11,7 @@ import Helpers.HelpersFunctions;
 
 /**
  *
- * @author user
+ * @author Mauricio Duran & Alejandro Djukic
  */
 public class Movie {
 

@@ -15,7 +15,7 @@ import javax.swing.ScrollPaneConstants;
 
 /**
  *
- * @author angel
+ * @author Mauricio Duran & Alejandro Djukic
  */
 public class QueueUI extends javax.swing.JPanel {
 
